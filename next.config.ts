@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
     images: {
         unoptimized: true,
     },
-    basePath: '/ReactPizza',
+    basePath: 'ReactPizza',
 };
 module.exports = nextConfig;
 
